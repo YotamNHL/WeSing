@@ -22,6 +22,5 @@ _Looks good doesn't it? Thats how WeSing looks full-fledged with our own homemad
 
 ## How it works?
 
-<kbd>
-[<img src="Images/PlayVideo.png" width="50%"></img>](https://youtu.be/ua87AhBrVBc)
-</kbd>
+[<img src="Images/PlayVideo.png" width="50%">](https://youtu.be/ua87AhBrVBc)
+
