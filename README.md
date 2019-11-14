@@ -6,8 +6,7 @@ It started (and basically ended) as a group project at the **MiLab 2018-2019** i
 It is Python-based and is aimed to work on any Raspberry pi unit.
 
 <img src="Images/Prototype.png" height="500" width="500"></img>
-
-Looks good doesn't it? Thats how WeSing looks full-fledged with our own homemade 3D printed shell
+_Looks good doesn't it? Thats how WeSing looks full-fledged with our own homemade 3D printed shell_
 
 
 ## Requirements
