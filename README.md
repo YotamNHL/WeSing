@@ -4,6 +4,8 @@
 WeSing is a code that turns your Raspberry Pi into a fun singing toy.
 It started (and basically ended) as a group project at the **MiLab 2018-2019** internship , and now is an open-source code for all to use.
 It is Python-based and is aimed to work on any Raspberry pi unit.
+<img src="Images/prototype.png">
+
 
 ## Requirements
 * a Raspberry-Pi, and the bigger the better. You can run the code on any device really but you will experience a better quality and faster results on a Raspberry-Pi 4.
