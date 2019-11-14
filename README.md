@@ -21,4 +21,7 @@ _Looks good doesn't it? Thats how WeSing looks full-fledged with our own homemad
 * Optional: a led strip, for those who enjoy colors and nice lights.
 
 ## How it works?
+
+<kbd>
 [<img src="Images/PlayVideo.png" width="50%">](https://youtu.be/ua87AhBrVBc)
+</kbd>
