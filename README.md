@@ -12,4 +12,5 @@ It started (and basically ended) as a group project at the **MiLab 2018-2019** i
 * a potentiometer.
 * Optional: a led strip, for those who enjoy colors and nice lights.
 
-## 
+## How it works?
+[<img src="https://img.youtube.com/vi/ua87AhBrVBc/maxresdefault.jpg" width="50%">](https://youtu.be/ua87AhBrVBc)
