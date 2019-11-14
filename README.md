@@ -1,4 +1,5 @@
-![](Images/WeSingLogo.png)
+<img src="Images/WeSingLogo.png">
+
 ## What the hell is WeSing?
 WeSing is a code that turns your Raspberry Pi into a fun singing toy.
 It started (and basically ended) as a group project at the **MiLab 2018-2019** internship , and now is an open-source code for all to use.
